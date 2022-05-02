@@ -1248,6 +1248,11 @@
   dependencies:
     "@types/node" "*"
 
+"@vee-validate/rules@^4.5.11":
+  "integrity" "sha512-aGwxjr/5/w8LFVObPB6UrqYt0oRlHHFw8/nxZHowY4LP62GWlAi+mAp1fb15Paav/c9rgV4iiqsNYarS1zpNQw=="
+  "resolved" "https://registry.npmjs.org/@vee-validate/rules/-/rules-4.5.11.tgz"
+  "version" "4.5.11"
+
 "@vue/babel-helper-vue-jsx-merge-props@^1.2.1":
   "integrity" "sha512-QOi5OW45e2R20VygMSNhyQHvpdUwQZqGPc748JLGCYEy+yp8fNFNdbNIGAgZmi9e+2JHPd6i6idRuqivyicIkA=="
   "resolved" "https://registry.npmjs.org/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.2.1.tgz"
@@ -5772,6 +5777,11 @@
   "resolved" "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz"
   "version" "1.1.2"
 
+"vee-validate@^3.4.14":
+  "integrity" "sha512-Hqqic8G9WcRSIzCxiCPqMZv4qB8JE1lIQqIOLDm2K5BXUiL8d4a2+kqkanv8gQSGDzYpnCQZ7BO/T99Aj05T1Q=="
+  "resolved" "https://registry.npmjs.org/vee-validate/-/vee-validate-3.4.14.tgz"
+  "version" "3.4.14"
+
 "vue-cli-plugin-vuetify@~2.4.8":
   "integrity" "sha512-1e8tVbJNQPLpdJgx8tlsCrFVSKrohLe5axWwolOuMr9k++X1pg95jiqBxYZdhh7tIl9bNh4wzVPPGQzTIpoS+Q=="
   "resolved" "https://registry.npmjs.org/vue-cli-plugin-vuetify/-/vue-cli-plugin-vuetify-2.4.8.tgz"
@@ -5834,7 +5844,7 @@
   "resolved" "https://registry.npmjs.org/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@^2 || ^3.2.13", "vue@^2.0.0", "vue@^2.6.14", "vue@^2.6.4":
+"vue@^2 || ^3.2.13", "vue@^2.0.0", "vue@^2.5.18", "vue@^2.6.14", "vue@^2.6.4":
   "integrity" "sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ=="
   "resolved" "https://registry.npmjs.org/vue/-/vue-2.6.14.tgz"
   "version" "2.6.14"
